@@ -1,6 +1,5 @@
 ![本地图片](header_image.png)
-## <center>IEEE CIS TASK FORCE ON</center>
-## <center>LARGE MODELS FOR INDUSTRIAL OPTIMIZATION</center>
+## <center>IEEE CIS TASK FORCE ON<br>LARGE MODELS FOR INDUSTRIAL OPTIMIZATION</center>
 
 ## <center>MOTIVATION</center>
 
