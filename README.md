@@ -35,25 +35,25 @@ The scope of this task force includes, but is not limited to:
 ## <center>Chair</center>
 
 * **Shulei Liu, Xidian University, China**  
-  Shulei Liu received the M.Eng. degree from Shandong Normal University, Jinan, China, in 2018, and the Ph.D. degree from Xidian University, Xi’an, China. He is currently a postdoctoral researcher at Xidian University. His research interests include large-scale multi-objective optimization, data-driven combinatorial optimization, large model-based evolutionary optimization, and real-world industry problems.
+  Shulei Liu received the M.Eng. degree from Shandong Normal University, Jinan, China, in 2018, and the Ph.D. degree from Xidian University, Xi’an, China. He is currently a postdoctoral researcher at Xidian University. His research interests include large-scale multi-objective optimization, data-driven combinatorial optimization, large model-based evolutionary optimization, and real-world industry problems. Email:liushulei@xidian.edu.cn.
 
 ## <center>Vice Chair</center>
 
+* **Fei Liu, City University of Hong Kong, China**  
+  Fei Liu received the BSc degree in airworthiness technology and MSc degree in fluid dynamics from Northwestern Polytechnical University, China in 2017 and 2020, and PhD degree at the Department of Computer Science, City University of Hong Kong, China in 2024. He is currently a research assistant at City University of Hong Kong. His main research interests include artificial intelligence, optimization, and their applications. Email:fliu36-c@my.cityu.edu.hk.
+.
+
+
 * **Qingfu Zhang, City University of Hong Kong, China**  
-  Qingfu Zhang received the B.S. degree in mathematics from Shanxi University, Taiyuan, China, in 1984, and the M.S. degree in applied mathematics and the Ph.D. degree in information engineering from Xidian University, Xi’an, China, in 1991 and 1994, respectively. He is a Chair Professor of Computational Intelligence at the Department of Computer Science, City University of Hong Kong. His main research interests include evolutionary computation, multiobjective optimization, machine learning and their applications. Dr. Zhang is an Associate Editor of the IEEE Transactions on Evolutionary Computation and the IEEE Transactions on Cybernetics. He has been a Web of Science highly cited researcher in Computer Science for six times.
+  Qingfu Zhang received the B.S. degree in mathematics from Shanxi University, Taiyuan, China, in 1984, and the M.S. degree in applied mathematics and the Ph.D. degree in information engineering from Xidian University, Xi’an, China, in 1991 and 1994, respectively. He is a Chair Professor of Computational Intelligence at the Department of Computer Science, City University of Hong Kong. His main research interests include evolutionary computation, multiobjective optimization, machine learning and their applications. Dr. Zhang is an Associate Editor of the IEEE Transactions on Evolutionary Computation and the IEEE Transactions on Cybernetics. He has been a Web of Science highly cited researcher in Computer Science for six times. Email: qingfu.zhang@cityu.edu.hk.
+
 
 ## <center>Members</center>
 
 - **Handing Wang**, Xidian University, China, hdwang@xidian.edu.cn
 - **Sanaz Mostaghim**, Otto-von-Guericke University Magdeburg, Germany, sanaz.mostaghim@ovgu.de
 - **Fei Liu**, City University of Hong Kong, China, fliu36-c@my.cityu.edu.hk
-- **Chao Qian**, Nanjing University, China, qianc@nju.edu.cn
 - **Tonghao Wang**, Xidian University, China, wangtonghao@xidian.edu.cn
-- **Fernando Jiménez**, University of Murcia, Spain, raquel.espinosa@um.es
-- **Terence L. van Zyl**, University of Johannesburg, South Africa, tvanzyl@uj.ac.za
-- **Rudolf Kruse**, Otto-von-Guericke University Magdeburg, Germany, rudolf.kruse@ovgu.de
-- **Takumi Sonoda**, Yokohama National University, Japan, sonoda-takumi-gp@ynu.jp
-- **Christoph Steup**, Otto von Guericke University, Germany, christoph.steup@ovgu.de
 - **Junhao Huang**, Victoria University of Wellington, New Zealand, junhao.huang@ecs.vuw.ac.nz
 - **Jialong Li**, Waseda University, Japan, lijialong@fuji.waseda.jp
 - **Hao Hao**, Shanghai Jiao Tong University, China, haohao@sjtu.edu.cn
