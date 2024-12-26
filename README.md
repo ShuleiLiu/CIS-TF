@@ -29,7 +29,7 @@ The scope of this task force includes, but is not limited to:
 
 ## <center>Activities</center>
 
-- Special Session on "<a href="https://shuleiliu.github.io/CEC_SS_LLMEAIO/">Large Language Model-Enhanced Evolutionary Algorithms for Industrial Optimization</a>" at CEC 2025
+- Special Session on "<a href="https://shuleiliu.github.io/CEC2025_SS_LLMEAIO/">Large Language Model-Enhanced Evolutionary Algorithms for Industrial Optimization</a>" at CEC 2025
 
 
 ## <center>Chair</center>
